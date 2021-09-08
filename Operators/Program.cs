@@ -37,6 +37,13 @@ namespace Operators
 
             int sonuc = 20 % 3;
             Console.WriteLine(sonuc);
+
+            int g = 30;
+            int s = 98;
+            bool sonuc2 = g < s;
+            bool sonuc3 = g >= s;
+            Console.WriteLine(sonuc2);
+            Console.WriteLine(sonuc3);
         }
     }
 }
