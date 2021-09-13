@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratikler", "Pratikler\Pratikler.csproj", "{56830550-B5E3-49FC-9331-CD54A365D6D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratikler", "Pratikler\Pratikler.csproj", "{56830550-B5E3-49FC-9331-CD54A365D6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{144D743E-94DE-441A-BE1D-DBAE04BF2B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{144D743E-94DE-441A-BE1D-DBAE04BF2B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{9E153A41-DE4B-4ADC-BBBB-1B506F96735A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{144D743E-94DE-441A-BE1D-DBAE04BF2B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144D743E-94DE-441A-BE1D-DBAE04BF2B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144D743E-94DE-441A-BE1D-DBAE04BF2B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E153A41-DE4B-4ADC-BBBB-1B506F96735A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E153A41-DE4B-4ADC-BBBB-1B506F96735A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E153A41-DE4B-4ADC-BBBB-1B506F96735A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E153A41-DE4B-4ADC-BBBB-1B506F96735A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
